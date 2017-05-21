@@ -1,2 +1,2 @@
 # challenges
-This Repository contains most of the programming challenges i solved
+This Repository contains most of the programming challenges I solved.
